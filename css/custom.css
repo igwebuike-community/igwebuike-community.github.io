@@ -54,3 +54,11 @@
 mark{
   background-color:#e4eed4;
  }
+
+
+.recordBtn{
+height: 40px;
+width: 40px;
+display: inline;
+
+}
