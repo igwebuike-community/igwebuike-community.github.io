@@ -76,3 +76,29 @@ display: inline;
   right: 10px;
   padding-top: 10px;
 }
+
+.howHelp{
+  color:white;
+}
+
+
+.joinImg{
+  width: 200px;
+  height: 200px;
+}
+
+.joinImgT{
+  width: 150px;
+  height: 150px;
+}
+
+.joinTable{
+  border: 0;
+ 
+}
+.joinTable td{
+
+  table-layout: fixed; 
+  width:90px;
+
+} 
