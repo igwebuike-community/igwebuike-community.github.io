@@ -1,6 +1,6 @@
 # Igwebuike 
   
-__Igwebuike__ is a grassroots community whose vision is to: 
+[__Igwebuike__](https://igwebuike-community.github.io/index.html) is a grassroots community whose vision is to: 
 1. Initiate a unified and sustained global effort towards the preservation of the Igbo Language,
 2. Curate Igbo speech data that will enable the development of various speech-related Artificial intelligence interfaces/platforms, using the in Igbo Language,
 3. Entrench Igbo Language as one of the dominant technological languages of the world,
