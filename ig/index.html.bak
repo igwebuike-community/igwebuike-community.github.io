@@ -68,22 +68,22 @@
       </div>
       <!--End Text around Image-->
          <!--Start Our Mission-->
-         <h2>Kèdú kà Í nwèrè íké ísī nyé ákā nà ḿbọ̄ à </h2>
+         <h2>How You can Contribute to this initiative</h2>
          <hr>
          
          <ol>
-           <li><a href="contribute.html">Íkpọ̄nyē(recording)/Ị́kwàdò(validating) ólú n'ásụ̀sụ́ Ìgbò </a>. </li>
-           <li><a href="gather.html">Ị́chị̄kọ́tá/Ínyọ̀chà áhị́rị́ókwū Ìgbò  ọ̀zọ́ </a>. </li>
-            <li>Join our <a href="join.html">Sònyé ógbè ányí.</a>. </li>
-            <li><a href="share.html">Kwụ́sàá ókwú màkà ógbè à</a>. </li>
-            <li><a href="fame-requirements.html">Bụ̀rụ̀ ónyé nà-ényé ákā nákwa èmé kà íhé nà-àgá n’íhú .</a>. Ànyị́ gà-àkpọ́sà gị́ nà <a href="fame.html">Hall of fame ányí</a>!</li>
+           <li><a href="contribute.html">Recording/Validating voices in Igbo language</a>. </li>
+           <li><a href="gather.html">Gathering/Reviewing more Igbo sentences</a>. </li>
+            <li>Join our <a href="join.html">community groups</a>. </li>
+            <li><a href="share.html">Spread the Word</a>. </li>
+            <li><a href="fame-requirements.html">Become a facilitator</a>. We will advertise You in our <a href="fame.html">Hall of Fame</a>!</li>
 
          </ol>
           <!--End Our Mission-->
 <br>
 <br>
               <!--Start community-->
-              <h2>Ógbè ńdí òzó nà-ákwàdó Igwebuike</h2>
+              <h2>Communities supporting Igwebuike</h2>
               <hr>
               <div class="flex-row">
                 <div class="flex-item flex-item-stretch flex-column">
@@ -92,7 +92,7 @@
                 <div class="flex-item flex-item-stretch-4 flex-column">
                   <p class="text">
                     <a class="highlight-text" target="blank" href="https://commonvoice.mozilla.org/ig">Common Voice</a><br>
-                    Common Voice bụ̀ ọ́rụ́ ḿbị́ákọ́tá ọ́nụ̄ ǹkè Mozilla màlìtèrè íjì mépụ̀tà ńchékwá data éfù màkà írū ígwē ná ághọ́tá ókwú ḿmádụ̀. Ńdí ḿmádụ̀ nà éjì ḿkpọ́nyé áhíríókwū ǹkè há nàkwà ńkwàdó ḿkpọ́nyé ńdí ọ̀zó ̣ná-ákwàdó ọ́rū à.
+                    Common Voice is a crowdsourcing project started by Mozilla to create a free database for speech recognition software. The project is supported by volunteers who record sample sentences with a microphone and review recordings of other users.
                   </p>
                 </div>
               </div>
@@ -106,7 +106,7 @@
                 <div class="flex-item flex-item-stretch-4 flex-column">
                   <p class="text">
                     <a class="highlight-text" target="blank" href="https://www.masakhane.io/">Masakhane</a><br>
-                     Masakhane bụ̀ ọ́gbákọ́ ìzùgbé ǹké èbùmnúchè yá bụ̀ ímē kà ńyòchá NLP síé íkē n'ásụ̀sụ́ Africa. Màkà ńdị́ Africa, síté n'áká ńdị́ Africa. N'ágbànyèghị̀ ézíókwū nà ásụ̀sụ́ 2000 ǹké ụ̀wà bụ̀ ńdị́ Africa, à ànọ́chìghì ányá ásụ̀sụ́ Africa hà nà teknụzụ.
+                    Masakhane is a grassroots organisation whose mission is to strengthen and spur NLP research in African languages, for Africans, by Africans. Despite the fact that 2000 of the world’s languages are African, African languages are barely represented in technology. 
                   </p>
                 </div>
               </div>

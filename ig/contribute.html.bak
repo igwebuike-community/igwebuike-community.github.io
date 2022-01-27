@@ -78,15 +78,15 @@
            
           </div>
           <div class="custom-tab-content" data-content="table">
-            <h3>Ọ́bụ́rụ́ nà ị́chọ̀rọ̀ íkwàdò ḿkpọ́nyé</h3>
+            <h3>How to Validate recordings</h3>
             <ol>
               <li>Bíkō gụ̀ọ́ mà  ghọ̀tá íhé <a href="https://commonvoice.mozilla.org/ig/criteria" target="blank"><strong>validation criteria</strong></a> before you start validating.</li>
                 
-              <li>Ọ́bụ́rụ́ nà ị́chọ̀rọ̀ íkwàdò, bùrú úzọ̀ pìá <a href="https://commonvoice.mozilla.org/ig/listen" target="blank"><button class="recordBtnClick custom-button custom-button-info pulse-info">Gèé ńtị̀</button></a>
+              <li>To validate, first click <a href="https://commonvoice.mozilla.org/ig/listen" target="blank"><button class="recordBtnClick custom-button custom-button-info pulse-info">Gèé ńtị̀</button></a>
               </li>
-              <li>Pị̀á kpọ̀ọ́ (<img class="recordBtn image" src="../img/playBtn.PNG">) kà Í gèé ḿkpọ́nyé.
-                <li>Ọ́bụ́rụ́ nà Í gècháá, pìá <img class="approveBtn recordBtn" src="../img/approveBtn.PNG"> kà íkwàdó ḿkpọ́nyé áhụ̀ màọ̀bụ́ <img class="recordBtn image no-top-margin max-width-200 center add-top-margin-small" src="../img/rejectBtn.PNG"> kà Í jụ́ ḿkpọ́nyé áhụ̀.</li>
-                <li>Ọ́búrú nà Í chọ́pụ̀tá nà Ì máchāghị̄ mà ọ̀ dì ḿmā màọ̀bụ̀ nà òdị́ghị́ ḿmā, pìá <mark>Máfèé</mark> kà Ị́ máfèé ńkwàdó ḿkpọ́nyé áhụ̀. </li>
+              <li>Press the play button (<img class="recordBtn image" src="../img/playBtn.PNG">) to listen to the recording.
+                <li>After listening, press <img class="approveBtn recordBtn" src="../img/approveBtn.PNG"> to Approve or <img class="recordBtn image no-top-margin max-width-200 center add-top-margin-small" src="../img/rejectBtn.PNG"> to Reject the recording.</li>
+                <li>If you are not sure, click <mark>Máfèé</mark> to skip the validation for that recording. </li>
                 </ol>
           
            <!-- <img class="image no-top-margin center add-top-margin-small" src="img/speak.PNG">-->
