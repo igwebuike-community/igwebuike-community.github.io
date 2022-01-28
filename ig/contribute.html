@@ -18,6 +18,7 @@
   <script src="../js/menu.js"></script>
   <script src="../js/widgets.js"></script>
   <script src="../js/custom.js"></script>
+  <script src="../js/lang.js"></script>
   <style>
     .menu-widget {
       color: rgb(255, 255, 255) !important;
@@ -29,6 +30,13 @@
 
 <body>
     <div class="menu-container"></div>
+    
+    <div class="lang-container"> 
+      <select id="languagePicker" class="languagePicker" onchange="loadLanguage(this)" data-width="fit">
+      <option >Igbo</option>
+    <option >English</option>
+  </select>
+  </div>
     <div class="content-container">
       
       <div class="content">
@@ -80,7 +88,7 @@
           <div class="custom-tab-content" data-content="table">
             <h3>Ọ́bụ́rụ́ nà ị́chọ̀rọ̀ íkwàdò ḿkpọ́nyé</h3>
             <ol>
-              <li>Bíkō gụ̀ọ́ mà  ghọ̀tá íhé <a href="https://commonvoice.mozilla.org/ig/criteria" target="blank"><strong>ìwú nà ùsòrò ńkwàdó</strong></a>túpú Ì màlíté ị́kwàdò.</li>
+              <li>Bíkō gụ̀ọ́ mà  ghọ̀tá íhé <a href="https://commonvoice.mozilla.org/ig/criteria" target="blank"><strong>ìwú nà ùsòrò ńkwàdó</strong></a> túpú Ì màlíté ị́kwàdò.</li>
                 
               <li>Ọ́bụ́rụ́ nà ị́chọ̀rọ̀ íkwàdò, bùrú úzọ̀ pìá <a href="https://commonvoice.mozilla.org/ig/listen" target="blank"><button class="recordBtnClick custom-button custom-button-info pulse-info">Gèé ńtị̀</button></a>
               </li>

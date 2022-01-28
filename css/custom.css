@@ -144,3 +144,49 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+
+
+.lang-container {
+
+  width: 100%;
+
+}
+
+.lang-container select {
+  background-color: #212121;
+  color: white;
+  padding: 5px;
+  width:150px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+}
+
+.lang-container::before {
+  content: "\f13a";
+  font-family: FontAwesome;
+
+  top: 0;
+  right: 0;
+  width: 20%;
+  height: 100%;
+  text-align: center;
+  font-size: 28px;
+  line-height: 45px;
+  color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.1);
+  pointer-events: none;
+}
+
+.lang-container:hover::before {
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.lang-container select option {
+  padding: 30px;
+}
