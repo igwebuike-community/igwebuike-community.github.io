@@ -1,14 +1,13 @@
 function loadLanguage(ele){
 var langSelect = ele.value;
 var fName;
-console.log(ele);
 var currentFile = location.href.split("/").slice(-1)[0]; 
 fName = currentFile;
 if (currentFile==''){
     fName='index.html'
 }
-console.log(fName);
-currLang = langSelect;
+
+
 var isIgbo = location.pathname.includes('/ig/');
 if (isIgbo==true && langSelect=='English'){
    // console.log('is Igbo and need to change to English');
