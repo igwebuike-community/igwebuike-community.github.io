@@ -50,6 +50,10 @@
   padding:0 0.25em;
 }
 
+.img-logo{
+  width: 250px;
+  height: 250px;
+}
 
 mark{
   background-color:#e4eed4;
@@ -154,7 +158,7 @@ blockquote p {
 }
 
 .lang-container select {
-  background-color: #212121;
+  background-color:  #865e41;
   color: white;
   padding: 5px;
   width:150px;
